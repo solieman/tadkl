@@ -1,0 +1,14 @@
+.item-card-wrapper {
+  display: flex; /* or inline-flex */
+  flex-direction: row;
+
+}
+
+.text-data {
+	flex-grow: 2;
+}
+
+.img-container {
+	width: 100px;
+	height: 100px;
+}
